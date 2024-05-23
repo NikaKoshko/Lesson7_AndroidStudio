@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942357816503",
+    "project_id": "lesson7-task3",
+    "storage_bucket": "lesson7-task3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942357816503:android:207dac86114344d23b9932",
+        "android_client_info": {
+          "package_name": "ru.mirea.lukanina.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxmNZwydGfTt5hQGyBd2pus8UeTyJ9i-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
